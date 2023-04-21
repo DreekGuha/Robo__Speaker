@@ -1,7 +1,6 @@
 import os
 
 if __name__ == '__main__':
-
     print("Welcome to my Robo Speaker")
     while True:
         txt=input("Enter what you want me to speak\n")
